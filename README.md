@@ -1,5 +1,3 @@
-# PHP-projects
-# PHP-Small_Projects-Stepbystep
 # PHP Small Projects – Login/Signup System
 
 This is a beginner-level PHP project demonstrating a simple **User Authentication System** using **PHP**, **MySQL**, **HTML**, and **CSS**.
